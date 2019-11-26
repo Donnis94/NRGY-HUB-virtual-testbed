@@ -19,5 +19,5 @@ Front-End technology stack:
 Back-End technology stack:
   - Java / Spring Boot
   
-Databases:
+Database:
   - MongoDB
