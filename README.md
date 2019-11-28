@@ -16,8 +16,12 @@ Front-End technology stack:
   - ReactJS
   - OpenStreetMap
   
+Repository for FrontEnd: https://github.com/nejrabahtic/NRGY-HUB-Virtual-TestBed-FrontEnd
+  
 Back-End technology stack:
   - Java / Spring Boot
   
+Repository for BackEnd: https://github.com/nejrabahtic/NRGY-HUB-Virtual-TestBed-BackEnd
+
 Database:
   - MongoDB
