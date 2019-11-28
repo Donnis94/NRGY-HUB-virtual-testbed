@@ -11,7 +11,9 @@ Team members:
   - Isabelle Agirman
   - Oskar Berglund
   - Muhammad Tariq
-    
+  
+Link for Trello: https://trello.com/b/KivsxlHn
+
 Front-End technology stack:
   - ReactJS
   - OpenStreetMap
