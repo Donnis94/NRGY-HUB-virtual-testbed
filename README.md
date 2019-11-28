@@ -13,17 +13,16 @@ Team members:
   - Muhammad Tariq
   
 Link for Trello: https://trello.com/b/KivsxlHn
+Link for Drive: https://drive.google.com/drive/folders/1v-KNNdWCDGaCioWOIC_EqCxk2PBORmIZ
+Repository for FrontEnd: https://github.com/nejrabahtic/NRGY-HUB-Virtual-TestBed-FrontEnd
+Repository for BackEnd: https://github.com/nejrabahtic/NRGY-HUB-Virtual-TestBed-BackEnd
 
 Front-End technology stack:
   - ReactJS
   - OpenStreetMap
   
-Repository for FrontEnd: https://github.com/nejrabahtic/NRGY-HUB-Virtual-TestBed-FrontEnd
-  
 Back-End technology stack:
   - Java / Spring Boot
-  
-Repository for BackEnd: https://github.com/nejrabahtic/NRGY-HUB-Virtual-TestBed-BackEnd
 
 Database:
   - MongoDB
